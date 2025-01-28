@@ -1,2 +1,2 @@
 # MultipleKeys
-Original link is dead, but there is a reference in the file.
+Modified version of a dead link, which is credited in the file
